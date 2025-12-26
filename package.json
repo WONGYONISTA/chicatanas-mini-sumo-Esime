@@ -2,7 +2,7 @@
   "name": "chicatanas-mini-sumo",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/WONGYONISTA/PAGINA-WEB-CHICATANAS-.git",
+  "homepage": "https://github.com/WONGYONISTA/chicatanas-mini-sumo-Esime.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
