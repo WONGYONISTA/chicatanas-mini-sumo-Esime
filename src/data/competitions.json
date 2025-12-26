@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Xmas 8",
+    "año": 2025,
+    "resultado": "Octavos de final",
+    "robot": "Ferina, Spina di rosie",
+    "imagen": "/competitions/XMAS.jpeg"
+  },
+  {
+    "nombre": "Feria de ciencas Esime Azcapo",
+    "año": 2025,
+    "resultado": "Participación (expositores)",
+    "robot": "Ferina,Focalors,Spina de rosie y Astra Yao",
+    "imagen": "/competitions/Feria .jpeg"
+  },
+  {
+    "nombre": "Robot Gods Olympics",
+    "año": 2025,
+    "resultado": "Cuartos de final",
+    "imagen": "/competitions/olympics.jpeg",
+    "robot": "Focalors,Spina de rosie"
+  }
+]

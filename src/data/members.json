@@ -1,0 +1,20 @@
+[
+  {
+    "nombre": "Cruz Diaz Leonardo",
+    "rol": "Capitán ",
+    "semestre": "3° semestre",
+    "foto": "/members/member1.jpg"
+  },
+  {
+    "nombre": "Gutiérrez Reyes José Emanuel",
+    "rol": "Sub Capitan",
+    "semestre": "3° semestre",
+    "foto": "/members/member2.jpg"
+  },
+  {
+    "nombre": "Reyes Santiago Azucena",
+    "rol": "Encargara de maquinaria pesada",
+    "semestre": "3° semestre",
+    "foto": "/members/member1.jpg"
+  }
+]

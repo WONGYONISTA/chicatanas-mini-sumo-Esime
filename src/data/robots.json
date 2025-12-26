@@ -1,0 +1,38 @@
+[
+  {
+    "nombre": "Focalors",
+    "estado": "mantenimiento",
+    "peso": "480 g",
+    "control": "Autónomo",
+    "sensores": "Sensor Infrarrojo Sharp + Sensor QRE1113",
+    "descripcion": "Robot rápido y con gran fuerza de empuje.",
+    "imagen": "/Robots/Focalors.jpeg"
+  },
+  {
+    "nombre": "Ferina",
+    "estado": "mantenimiento",
+    "peso": "342 g",
+    "control": "Rc",
+    "sensores": "",
+    "descripcion": "Esta disñeado para poder empujar desde diversos ángulos garcias a su rampa",
+    "imagen": "/Robots/FERINA.JPG"
+  },
+  {
+    "nombre": "Spina di rosie",
+    "estado": "mantenimiento",
+    "peso": "339",
+    "control": "Rc",
+    "sensores": "",
+    "descripcion": "Mini sumo diseñado para poder empuajr 500g o más",
+    "imagen": "/Robots/Spina di rosie.JPG"
+  },
+  {
+    "nombre": "Astra Yao",
+    "estado": "mantenimiento",
+    "peso": "Desconocido",
+    "control": "Autónomo",
+    "sensores": "Sensor minisumo JS40F + Sensor de ML1",
+    "descripcion": "Diseñado para poder leer enemigos desde cualquier ángulo sin importar que tan veloz sea",
+    "imagen": "/Robots/Wuthering Waves Screenshot 2025.11.21 - 22.32.20.37.png"
+  }
+]
